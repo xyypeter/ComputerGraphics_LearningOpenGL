@@ -12,4 +12,5 @@ endif()
 project ("ComputerGraphics_OpenGL")
 
 # 包含子项目。
-add_subdirectory ("ComputerGraphics_OpenGL")
+#add_subdirectory ("ComputerGraphics_OpenGL")
+add_subdirectory ("000_CmakeStudy")
