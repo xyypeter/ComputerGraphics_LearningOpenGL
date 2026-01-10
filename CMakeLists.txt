@@ -14,4 +14,5 @@ project ("ComputerGraphics_OpenGL")
 # 包含子项目。
 #add_subdirectory ("ComputerGraphics_OpenGL")
 #add_subdirectory ("000_CmakeStudy")
-add_subdirectory ("001_OpenGL_EngineeredTemplate")
+#add_subdirectory ("001_OpenGL_EngineeredTemplate")
+add_subdirectory ("002_GLFW_WINDOW")
