@@ -9,9 +9,9 @@ add_definitions (-DDEBUG)
 set(CMAKE_CXX_STANDARD 17)
 
 
-file(GLOB ASSETS "./assets" )
+#file(GLOB ASSETS "./assets" )
 
-file(COPY ${ASSETS} DESTINATION ${CMAKE_BINARY_DIR})
+#file(COPY ${ASSETS} DESTINATION ${CMAKE_BINARY_DIR})
 
 
 include_directories(
