@@ -34,4 +34,5 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 └── 031_OpenGL_Geometry/                     # 几何绘制
 └── 032_OpenGL_Diffuse/                      # 实现基础的漫反射光照模型
 └── 033_OpenGL_Specular/                     # 实现镜面高光反射光照
+└── 034_OpenGL_NormalMatrix/                 # 学习并使用法线矩阵处理非均匀缩放
 ```
