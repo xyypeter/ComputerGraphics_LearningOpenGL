@@ -32,5 +32,6 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 ├── 029_OpenGL_CameraSystem/                 # 相机系统实现
 ├── 030_OpenGL_DepthTest/                    # 深度测试
 └── 031_OpenGL_Geometry/                     # 几何绘制
-└── 031_OpenGL_Geometry/                     # 实现基础的漫反射光照模型
+└── 032_OpenGL_Diffuse/                      # 实现基础的漫反射光照模型
+└── 033_OpenGL_Specular/                     # 实现镜面高光反射光照
 ```
