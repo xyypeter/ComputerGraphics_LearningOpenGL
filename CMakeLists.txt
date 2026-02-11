@@ -44,7 +44,9 @@ project ("ComputerGraphics_OpenGL")
 #add_subdirectory ("028_OpenGL_PerspectiveProjection")
 #add_subdirectory ("029_OpenGL_CameraSystem")
 #add_subdirectory ("030_OpenGL_DepthTest")
-add_subdirectory ("031_OpenGL_Geometry")
+#add_subdirectory ("031_OpenGL_Geometry")
+add_subdirectory ("032_OpenGL_Diffuse")
+
 
 
 
