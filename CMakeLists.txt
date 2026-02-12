@@ -49,7 +49,9 @@ project ("ComputerGraphics_OpenGL")
 #add_subdirectory ("033_OpenGL_Specular")
 #add_subdirectory ("034_OpenGL_NormalMatrix")
 #add_subdirectory ("035_OpenGL_Struct")
-add_subdirectory ("036_OpenGL_StructDemo")
+#add_subdirectory ("036_OpenGL_StructDemo")
+add_subdirectory ("037_OpenGL_SpecularMask")
+
 
 
 
