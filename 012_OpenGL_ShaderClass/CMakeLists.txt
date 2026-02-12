@@ -1,11 +1,11 @@
 #需求的最低cmake程序版本
-cmake_minimum_required(VERSION 3.12)
+#cmake_minimum_required(VERSION 3.12)
 
 #往项目中加入一个全局的预编译宏(CMakeLists中使用全局预编译宏来控制是否开启错误检查)
 add_definitions (-DDEBUG)
 
 #本工程的名字
-project(OpenGL_Lecture)
+#project(OpenGL_Lecture)
 
 #本工程支持的C++版本
 set(CMAKE_CXX_STANDARD 17)
