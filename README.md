@@ -43,4 +43,5 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 └── 040_OpenGL_SpotLight-BlurEdge/           # 实现聚光灯硬边缘效果
 └── 041_OpenGL_ShaderFunction/               # Shader函数与结构封装
 └── 042_OpenGL_LightArray/                   # 数组实现多光源(平行光、点光、聚光)管理
+└── 043_OpenGL_IMGUI/                        # 集成ImGUI库，实现图形化参数控制界面
 ```
