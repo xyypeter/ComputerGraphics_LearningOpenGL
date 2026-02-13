@@ -54,8 +54,8 @@ project ("ComputerGraphics_OpenGL")
 #add_subdirectory ("038_OpenGL_PointLight")
 #add_subdirectory ("039_OpenGL_SpotLight")
 #add_subdirectory ("040_OpenGL_SpotLight-BlurEdge")
-add_subdirectory ("041_OpenGL_ShaderFunction")
-
+#add_subdirectory ("041_OpenGL_ShaderFunction")
+add_subdirectory ("042_OpenGL_LightArray")
 
 
 
