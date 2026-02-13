@@ -38,4 +38,5 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 └── 035_OpenGL_Struct/                       # 学习新架构
 └── 036_OpenGL_StructDemo/                   # 新架构应用实践
 └── 037_OpenGL_SpecularMask/                 # 高光蒙版学习
+└── 038_OpenGL_PointLight/                   # 点光源学习
 ```
