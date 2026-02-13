@@ -41,4 +41,5 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 └── 038_OpenGL_PointLight/                   # 点光源学习
 └── 039_OpenGL_SpotLight/                    # 聚光灯学习
 └── 040_OpenGL_SpotLight-BlurEdge/           # 实现聚光灯硬边缘效果
+└── 041_OpenGL_ShaderFunction/               # Shader函数与结构封装
 ```
