@@ -45,4 +45,5 @@ ComputerGraphics_OpenGL/                     # 顶层CMake项目
 └── 042_OpenGL_LightArray/                   # 数组实现多光源(平行光、点光、聚光)管理
 └── 043_OpenGL_IMGUI/                        # 集成ImGUI库，实现图形化参数控制界面
 └── 044_OpenGL_ParentAndChildren/            # 父子层级变换关系
+└── 045_OpenGL_SceneBasedRendering/          # 基于场景结构的渲染
 ```
